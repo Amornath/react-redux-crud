@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Rahim",
+      "roll": "11",
+      "clss": "one",
+      "id": 1
+    },
+    {
+      "name": "Rahi",
+      "roll": "30",
+      "clss": "four",
+      "id": 2
+    },
+    {
+      "name": "Karim",
+      "roll": "47",
+      "clss": "three",
+      "id": 3
+    },
+    {
+      "name": "Amor Nath",
+      "roll": "2",
+      "clss": "Six",
+      "id": 4
+    },
+    {
+      "name": "razib",
+      "roll": "2",
+      "clss": "Six",
+      "id": 5
+    }
+  ]
+}
