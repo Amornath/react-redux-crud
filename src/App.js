@@ -1,11 +1,10 @@
-
-import './App.css';
-import List from './feature/List';
+import "./App.css";
+import List from "./feature/List";
 
 function App() {
   return (
     <div className="App">
-      <List/>
+      <List />
     </div>
   );
 }
